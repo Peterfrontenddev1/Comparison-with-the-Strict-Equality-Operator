@@ -23,6 +23,7 @@ so the function will return the string Equal when val is strictly equal to 7.
 testStrict(10) should return the string Not Equal
 
 testStrict(7) should return the string Equal
+
 testStrict("7") should return the string Not Equal
 You should use the === operator
 
