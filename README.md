@@ -10,5 +10,7 @@ If the values being compared have different types, they are considered unequal, 
 Examples
 3 ===  3  // true
 3 === '3' // false
+In the second example, 3 is a Number type and '3' is a String type.
 
+Use the strict equality operator in the if statement so the function will return the string Equal when val is strictly equal to 7.
 
