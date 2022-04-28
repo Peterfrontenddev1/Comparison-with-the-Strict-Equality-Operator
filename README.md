@@ -8,5 +8,7 @@ the strict equality operator does not perform a type conversion.
 
 If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
 Examples
+3 ===  3  // true
+3 === '3' // false
 
 
