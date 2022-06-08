@@ -13,6 +13,7 @@ Examples
 
 3 ===  3  // true
 
+
 3 === '3' // false
 
 In the second example, 3 is a Number type and '3' is a String type.
