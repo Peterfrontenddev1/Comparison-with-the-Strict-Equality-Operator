@@ -10,7 +10,6 @@ If the values being compared have different types, they are considered unequal, 
 
 Examples
 
-
 3 ===  3  // true
 
 
