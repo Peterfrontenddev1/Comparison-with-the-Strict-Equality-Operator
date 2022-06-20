@@ -28,6 +28,7 @@ testStrict(10) should return the string Not Equal
 testStrict(7) should return the string Equal
 
 testStrict("7") should return the string Not Equal
+
 You should use the === operator
 
 
