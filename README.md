@@ -7,6 +7,7 @@ However, unlike the equality operator, which attempts to convert both values bei
 the strict equality operator does not perform a type conversion.
 
 
+
 If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
 
 Examples
